@@ -1,0 +1,40 @@
+{
+  "name": "headerize",
+  "version": "0.0.0",
+  "description": "Generate a headerize string",
+  "license": "MIT",
+  "repository": "ragingwind/headerize",
+  "author": {
+    "name": "ragingwind",
+    "email": "ragingwind@gmail.com",
+    "url": "ragingwind.me"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "xo && mocha"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "normalize",
+    "header",
+    "hederlize",
+    "trim",
+    "title",
+    "string"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^2.2.5",
+    "xo": "^0.9.0"
+  },
+  "xo": {
+    "envs": [
+      "node",
+      "mocha"
+    ]
+  }
+}
