@@ -1,4 +1,4 @@
-# headerize [![Build Status](https://travis-ci.org/ragingwind/node-headerize.svg?branch=master)](https://travis-ci.org/ragingwind/node-headerize)
+# headerize [![Build Status](https://travis-ci.org/ragingwind/node-headerize.svg?branch=master)](https://travis-ci.org/ragingwind/headerize)
 
 > Generate a headerize string
 
